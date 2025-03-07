@@ -7,6 +7,7 @@ Therefore, I explored and researched various methods to address this issue.
 In this project, I used ESP8266, Seeed XIAO nRF52840, and LM Studio to host several models that have been published as open-source worldwide. 
 The main problem I aim to solve is utilizing large language models to process environmental data (UV index, temperature, and humidity) and provide advice and recommendations on self-protection.
 It was a few devices that I used in this project:
+
 ![image](https://github.com/user-attachments/assets/aabd43a7-2b10-46d8-8a12-305e394ef63b)
 
 ![image](https://github.com/user-attachments/assets/b2387cf8-d07f-4083-b00b-d838016c717e)
